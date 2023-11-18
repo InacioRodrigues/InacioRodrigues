@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
   ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -69,6 +70,5 @@ Here are some ideas to get you started:
 </div>
 
  ## 📫 &nbsp;My Contacts
-  [![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in%C3%A1cio-rodrigues-ab1724212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcBWpRX7pT6KQCa27HMBldg%3D%3D/)
-
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/in%C3%A1cio-rodrigues-ab1724212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcBWpRX7pT6KQCa27HMBldg%3D%3D/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(inaciorodrigues395@gmail.com)
