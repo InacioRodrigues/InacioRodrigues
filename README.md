@@ -4,7 +4,7 @@
 <!--
 **InacioRodrigues/inaciorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📫 How to reach me **inaciorodrigues395@gmail.com**
+
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="50%" width="100%"></p>
 
@@ -14,7 +14,8 @@
    - 📚 Computer engineering student at Universidade Lusíada de Angola.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **NestJs**,  **ExpressJs**, **NodeJS**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💬 Ask me about **any technology**.
+   - 📫 How to reach me **inaciorodrigues395@gmail.com**
+ - 💬 Ask me about **any technology**.
   <br>
 
   <div>
