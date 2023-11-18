@@ -1,19 +1,10 @@
-### Hi there 👋
+#<h1 align="center">Hi 👋, I'm Inácio Rodrigues</h1>
+<h3 align="center"> Desenvolvedor de Software </h3>
 
 <!--
 **InacioRodrigues/inaciorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  Nodejs(NestJs, ExpressJs and AdonisJs)...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **inaciorodrigues395@gmail.com**
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="50%" width="100%"></p>
 
@@ -61,13 +52,9 @@ Here are some ideas to get you started:
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/InacioRodrigues">
-    <img width=450 height=170 align="center" alt="Inácio Rodrigues" src="https://github-readme-stats.vercel.app/api?username=Inácio Rodrigues&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/InacioRodrigues">
-    <img align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InácioRodrigues&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaciorodrigues&show_icons=true&locale=en&layout=compact" alt="inaciorodrigues" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inaciorodrigues&" alt="inaciorodrigues" /></p>
 
  ## 📫 &nbsp;My Contacts
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
