@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
  ## 📫 &nbsp;My Contacts
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/in%C3%A1cio-rodrigues-ab1724212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcBWpRX7pT6KQCa27HMBldg%3D%3D/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(inaciorodrigues395@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
