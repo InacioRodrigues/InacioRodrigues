@@ -50,13 +50,19 @@
 </div>
 
 
-<div>
+<h2> My Statistics</h2>
+<br/>
+<p align="left">
+  <a href="https://ildeberto.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=inaciorodrigues&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=inaciorodrigues&theme=algolia&hide_border=true" />
+  </a>
+</p>
 
-  ## 📊 &nbsp;My activities
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inaciorodrigues&show_icons=true&locale=en&layout=compact" alt="inaciorodrigues" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inaciorodrigues&" alt="inaciorodrigues" /></p>
-
+![InacioRodrigues Activity Graph](https://activity-graph.herokuapp.com/graph?username=inaciorodrigues_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=d3eaf2&point=134b5f)
+------
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=inaciorodrigues&langs_count=3&theme=algolia)
+ 
  ## 📫 &nbsp;My Contacts
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
