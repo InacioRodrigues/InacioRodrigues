@@ -25,7 +25,8 @@
 
   - Clean architecture.
   - TDD.
-  - Docker
+  - DDD.
+  - Docker.
   - ReactJs.
  
   </div>
